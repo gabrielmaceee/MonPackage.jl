@@ -1,0 +1,1 @@
+bonjour() = "Hey, salut"
